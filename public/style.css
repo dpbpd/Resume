@@ -1,0 +1,71 @@
+#container {
+	margin-top: 20px;
+	margin-left: 100px;
+	margin-right: 100px;
+
+	padding: 10px 100px 10px 100px;
+
+	border-radius: 15px;
+	background-color: rgb(123, 202, 194);
+
+	text-align: left;
+}
+
+#content-contact {
+	text-align: right;
+}
+div.block-date {
+	margin-left: 50px;
+}
+p {
+	font-size: 22px;
+	margin-left: 50px;
+}
+ul {
+	margin-left: 125px;
+}
+#content-summary{
+	font-size: 38px;
+}
+#content-work {
+	font-size: 38px;
+}
+#content-education {
+	font-size: 38px;
+}
+#content-hobbies {
+	font-size: 38px;
+}
+
+h1 {
+	margin-top: 25px;
+	font-size: 100px;
+	margin-bottom: -25px;
+}
+
+h2 {
+	font-size: 18px;
+	margin-bottom: -6px;
+}
+
+h3 {
+	font-size: 22px;
+	margin-bottom: -10px;
+	margin-left: 50px;
+}
+h4 {
+	font-size: 22px;
+	margin-bottom: -10px;
+	margin-left: 50px;
+}
+h5 {
+	margin-top: 30px;
+	margin-left: 100px;
+	margin-bottom: 30px;
+	font-weight: 100;
+}
+li {
+	font-size: 18px;
+	text-align: left;
+	font-weight: 100;
+}

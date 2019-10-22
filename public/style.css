@@ -10,7 +10,13 @@ html, body {
 
 	text-align: left;
 }
-
+a:link {
+	color: rgb(0, 0, 0);
+}
+a:visited {
+	color: black;
+}
+  
 #content-contact {
 	color: white;
 	text-align: right;
@@ -90,6 +96,7 @@ h5 {
 	font-weight: 100;
 }
 li {
+	color: rgb(92, 92, 92);
 	font-size: 18px;
 	text-align: left;
 	font-weight: 100;

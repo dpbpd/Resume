@@ -16,7 +16,9 @@ a:link {
 a:visited {
 	color: black;
 }
-  
+a:hover {
+	color: white;
+}
 #content-contact {
 	color: white;
 	text-align: right;
@@ -96,7 +98,7 @@ h5 {
 	font-weight: 100;
 }
 li {
-	color: rgb(92, 92, 92);
+	color: rgb(73, 73, 73);
 	font-size: 18px;
 	text-align: left;
 	font-weight: 100;
